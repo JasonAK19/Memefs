@@ -1,4 +1,3 @@
-// Shree Ram
 MEMEFS Kernel Module Implementation 
 
 Project Overview:
@@ -12,7 +11,6 @@ Installation and Setup
 Prerequisites
 
 A computer with a Debian-based Linux virtual machine.
-A working implementation of Parts 1 and 2 of the project.
 Install the required packages for kernel module development:
 sudo apt-get update
 sudo apt-get install build-essential linux-headers-$(uname -r)
